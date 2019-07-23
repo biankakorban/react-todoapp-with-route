@@ -1,3 +1,8 @@
+
+Deployed app can be visited at http://biankakorban.github.io/react-todoapp-with-route
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
