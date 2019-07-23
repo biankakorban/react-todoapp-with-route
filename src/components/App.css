@@ -1,0 +1,50 @@
+button {
+  border: 1px solid aqua;
+  background-color: aqua;
+  font-size: 17px;
+  font-weight: bold;
+  margin: 2px;
+  border-radius: 5px;
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+input {
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 17px;
+  margin: 2px;
+  width: 25%;
+  padding: 5px;
+}
+textarea {
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 17px;
+  margin: 2px;
+  width: 25%;
+  box-sizing: border-box;
+  resize: none;
+  padding: 5px;
+}
+
+label {
+  font-size: 17px;
+  font-weight: bold;
+  display: inline;
+  align-self: auto;
+}
+
+.App {
+  text-align: center;
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.complete {
+  text-decoration: line-through;
+  color: red;
+}
